@@ -1,0 +1,1 @@
+import{Q as t}from"./QPage-tFoHBJur.js";import{I as a,J as r,K as o,N as s}from"./index-4JE232q2.js";import"./render-xRC36W7f.js";const l={__name:"IndexPage",setup(_){return(n,e)=>(r(),a(t,{class:"flex flex-center"},{default:o(()=>e[0]||(e[0]=[s(" Главнвя ",-1)])),_:1,__:[0]}))}};export{l as default};
